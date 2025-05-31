@@ -4,8 +4,8 @@
 # MCS Graduate Student
 
 ## Education
-- Master of Computer Science, Utah Valley University, Aug 2023 to Dec 2025
-- Bachelor of Science in Chemistry, University of Utah, May 2023- May 2010
+- Master of Computer Science, Utah Valley University, Aug 2023 - Dec 2025
+- Bachelor of Science in Chemistry, University of Utah, May 2023 - May 2010
 - Electronic Engineering, Universidad Mayor de San Andrés, La Paz, Bolivia
 
 
