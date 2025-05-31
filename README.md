@@ -11,13 +11,13 @@
 
 ## Skills
 
--Python, SQL, Non-SQL (MongoDB, Neo4j), C++
--Machine Learning & Deep Learning
--Tableau, Matplotlib
--Git, Linux, Docker, Google Colab
+- Python, SQL, Non-SQL (MongoDB, Neo4j), C++
+- Machine Learning & Deep Learning
+- Tableau, Matplotlib
+- Git, Linux, Docker, Google Colab
 
 ## Projects
-#Job Tracking Management System
+Job Tracking Management System
 A Job Tracking Management System is used to manage various jobs or tasks within an organization.  I chose MongoDB because it is flexible for handling high volumes of unstructured or semi-structured data, and it offers real-time updates and scalability.  The system tracks the following entities:
 
 1. Jobs: Represents a job or task that needs to be completed
@@ -25,7 +25,21 @@ A Job Tracking Management System is used to manage various jobs or tasks within 
 3. Job Statuses. Represents the status of a job (e.g. "Pending", "In Progress", "Completed")
 4. Job Assignments: Tracks which employee is assigned to which jobs and the due date for completion
 
-#
+Intrusion Detection System using Machine Learning
+
+I used the KDD Cup 1999 Dataset, a popular dataset for IDS that contains network traffic data, further preprocessed by feature selection, data normalization, and label encoding.
+Then three models were evaluated:
+Decision Tree, Random Forest, and KNN.
+Algorithm	Training Accuracy
+(%)	Testing Accuracy
+(%)	Total Training Time	Total Testing Time
+Decision Tree	98.69	98.44	0.04	0.01
+Random Forest	99.85	98.51	0.60	0.09
+KNN	97.62	96.52	0.01	0.24
+![image](https://github.com/user-attachments/assets/cb9b13ac-7223-41c5-ba3b-d31220070e87)
+
+
+
 
  
 
