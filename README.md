@@ -28,14 +28,8 @@ A Job Tracking Management System is used to manage various jobs or tasks within 
 Intrusion Detection System using Machine Learning
 
 I used the KDD Cup 1999 Dataset, a popular dataset for IDS that contains network traffic data, further preprocessed by feature selection, data normalization, and label encoding.
-Then three models were evaluated:
-Decision Tree, Random Forest, and KNN.
-Algorithm	Training Accuracy
-(%)	Testing Accuracy
-(%)	Total Training Time	Total Testing Time
-Decision Tree	98.69	98.44	0.04	0.01
-Random Forest	99.85	98.51	0.60	0.09
-KNN	97.62	96.52	0.01	0.24
+Then, three models were evaluated:
+
 ![image](https://github.com/user-attachments/assets/cb9b13ac-7223-41c5-ba3b-d31220070e87)
 
 
